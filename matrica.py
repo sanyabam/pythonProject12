@@ -29,4 +29,5 @@ for i in range(1, len(A)):
 print(c)
 print(b)
 print(max_number)
+руддщ
 
