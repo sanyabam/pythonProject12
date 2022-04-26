@@ -13,7 +13,7 @@ for i in my_list:
 print(my_list1)
 my_set = set(my_list1)
 print(my_set)
-
+print("Привет, мой друг")
 
 
 
